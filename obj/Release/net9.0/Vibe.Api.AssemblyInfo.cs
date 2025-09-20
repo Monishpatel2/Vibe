@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vibe.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83740b42b675265de742145e71f3130f6034c405")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vibe.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vibe.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
